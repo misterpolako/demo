@@ -3,4 +3,4 @@
 This is a simple reading file.
 New text.
 Update
-To także sprawi problem.
+To sprawi problem.
